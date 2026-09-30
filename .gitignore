@@ -1,0 +1,13 @@
+.venv/
+.venv312/
+**/.venv/
+**/.venv312/
+
+.idea/
+**/.idea/
+
+__pycache__/
+**/__pycache__/
+
+*.pyc
+~$*.docx
